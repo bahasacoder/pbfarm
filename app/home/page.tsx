@@ -1,9 +1,3 @@
-
-
-export default function Home() {
-  return (
-	<>
-		<p>Halaman Home</>
-    </>
-  )
-}	
+export default function Page() {
+  return <h1>Hello, Home Page!</h1>
+}
