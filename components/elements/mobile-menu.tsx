@@ -1,4 +1,4 @@
-import { Search, X, ChevronDown} from "lucide-react";
+import { Search, X, ChevronDown, Menu } from "lucide-react";
 import Link from "next/link";
 
 import {
@@ -28,7 +28,7 @@ export function MobileMenu() {
 
 		 <Dialog>
 			<DialogTrigger asChild>
-			  <Button variant="outline">Open Dialog</Button>
+			  <Button variant="outline"><Menu /></Button>
 			</DialogTrigger>
 			<DialogContent className="fixed bg-night/60 max-w-[425px] overflow-scroll h-full mb-12">
 		
