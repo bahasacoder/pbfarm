@@ -80,7 +80,7 @@ export function HeaderMenu() {
 					</ul>
 				</nav>	
 			</div>
-			<div className="flex flex-row bg-green-500">
+			<div className="flex flex-row">
 				<div className="flex items-center gap-4">
 							<a href="#" className="flex items-center gap-2 text-gray-700 hover:text-green-500 transition font-medium">
 								<svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -98,13 +98,9 @@ export function HeaderMenu() {
 								</svg>
 								Weekly Discounts
 							</a>
-				</div>
-			
+				</div>			
 			</div>
-						
-		
-		</div>
-		
+		</div>		
     </>
-	)
+)
 }
