@@ -23,12 +23,9 @@ export function MainHeader () {
 	<>
 		{/* Mebile Menu Toggle */}
 			<div className='inline w-auto'>
-				<div>
-					<div>
-
-   
-          <MobileMenu />
-        
+				<div className="md:hidden">
+					<div>   
+         				 <MobileMenu />
 					</div>
 				</div>
 			</div>	
