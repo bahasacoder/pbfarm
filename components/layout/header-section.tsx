@@ -33,7 +33,7 @@ export function HeaderSection () {
 			{/* Navigation - Header */}
 			<div className="sticky top-0 z-50 flex flex-col mx-auto w-full">
 				<div className="relative w-full bg-beige hidden lg:flex mx-auto">
-					<div className="flex top-0 mx-auto px-4">
+					<div className="flex top-0 mx-auto px-4 w-5xl">
 						<HeaderMenu />
 					</div>
 				</div>

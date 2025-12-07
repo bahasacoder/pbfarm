@@ -61,7 +61,7 @@ export function MainHeader () {
 							<Phone className="w-5 h-5 text-gray-600" />
 							<div>
 								<p className="text-xs text-gray-500">Call Us Now:</p>
-								<p className="text-sm font-semibold text-gray-800">0(800)123-456</p>
+								<p className="text-sm font-semibold text-gray-800">+62 812 6805 2229</p>
 							</div>
 						</div>
 					</div>
