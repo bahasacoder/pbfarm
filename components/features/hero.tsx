@@ -83,7 +83,7 @@ export default function Hero() {
 						></div>
 						<div className="image-bg absolute top-0 z-10 w-full h-full">
 							<Image
-								src={'/images/IMG20231225090919.jpg'} 
+								src={'./images/IMG20231225090919.jpg'} 
 								alt="img-telur"
 								fill
 								style={{ 
