@@ -4,6 +4,8 @@ module.exports = {
     loader: "akamai",
     path: "/"
   },
-  reactStrictMode: true
+  reactStrictMode: true,
+  basePath: 'https://bahasacoder.github.io/pbfarm'
 };
+
 
