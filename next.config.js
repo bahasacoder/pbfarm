@@ -1,6 +1,10 @@
 module.exports = {
   images: {
-    disableStaticImages: true,
+    localPatterns: [
+      {
+        pathname: '/public/**',
+        search: '',
+      },
+    ],
   },
-  reactStrictMode: true
 };

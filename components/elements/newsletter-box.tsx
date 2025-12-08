@@ -1,5 +1,7 @@
 import Image from "next/image";
 // import { CreateItem } from "@/app/actions";
+import HenSend from '@/public/Hen_Delivery_preview.png';
+
 export function NewsletterBox () {
 
     return (
@@ -10,7 +12,7 @@ export function NewsletterBox () {
 			</div>
 			<div className="nb-middle relative w-full min-h-38 h-auto md:w-1/5 flex justify-center items-center mx-auto">
 					<Image 
-						src="/Hen_Delivery_preview.png" 
+						src={HenSend}
 						alt="Hen deliver envelope" 
 						fill
 						style={{ objectFit: 'contain', borderRadius: '10px', }}
