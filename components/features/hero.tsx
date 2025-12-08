@@ -14,9 +14,9 @@ import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation'; 
 
-import telurHeroPic1 from '/public/pictures/IMG20241116122934.jpg';
-import telurHeroPic2 from '/public/pictures/IMG20231225090919.jpg';
-import telurHeroPic3 from '/public/pictures/IMG20241108054651.jpg';
+import telurHeroPic1 from '/public/images/IMG20241116122934.jpg';
+import telurHeroPic2 from '/public/images/IMG20231225090919.jpg';
+import telurHeroPic3 from '/public/images/IMG20241108054651.jpg';
 
 const HeroItems = [
 	{
