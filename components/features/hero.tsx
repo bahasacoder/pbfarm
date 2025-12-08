@@ -13,11 +13,11 @@ import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation'; 
-/*
-import telurHeroPict1 from './public/images/IMG20241116122934.jpg';
-import telurHeroPic2 from './public/images/IMG20231225090919.jpg';
-import telurHeroPic3 from './public/images/IMG20241108054651.jpg';
-*/
+
+import telurHeroPic1 from 'public/images/IMG20241116122934.jpg';
+import telurHeroPic2 from 'public/images/IMG20231225090919.jpg';
+import telurHeroPic3 from 'public/images/IMG20241108054651.jpg';
+
 const HeroItems = [
 	{
 		id: 1,
@@ -85,7 +85,7 @@ export default function Hero() {
 						></div>
 						<div className="image-bg absolute top-0 z-10 w-full h-full">
 							<Image
-								src={"/images/IMG20231225090919.jpg"} 
+								src={telurHeroPic3} 
 								alt="img-telur"
 								fill
 								style={{ 
@@ -119,7 +119,7 @@ export default function Hero() {
 						></div>
 						<div className="image-bg absolute top-0 z-10 w-full h-full">
 							<Image
-								src={"/images/IMG20231225090919.jpg"} 
+								src={telurHeroPic2} 
 								alt="img-telur"
 								fill
 								style={{ 
@@ -153,7 +153,7 @@ export default function Hero() {
 							></div>
 							<div className="image-bg absolute top-0 z-10 w-full h-full">
 								<Image
-									src="/images/IMG20231225090919.jpg" 
+									src={telurHeroPic1}
 									alt="img-telur"
 									fill
 									style={{ 
