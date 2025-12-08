@@ -11,8 +11,8 @@ export default function DemoLayout({
     <html lang="en">
       <body>
 	  
-		<HeaderSection />
-			{children}
+		  <HeaderSection />
+			  {children}
 	  	<FooterSection />
 	  </body>
     </html>
