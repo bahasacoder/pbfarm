@@ -15,7 +15,6 @@ export function HeaderSection () {
 
 	return (
 	<>
-		<div>
 			<header className="relative w-full mx-auto container shadow-sm">
 				{/* Top Bar */}
 				<div className="border-b">
@@ -30,8 +29,7 @@ export function HeaderSection () {
 					</div>
 				</div>
 			</header>
-		</div>
-		{/* Navigation - Header */}
+			{/** Navigation - Header */}
 		<div className="sticky top-0 z-50 flex flex-col mx-auto w-full">
 				<div className="relative w-full bg-beige hidden lg:flex mx-auto">
 					<div className="flex top-0 mx-auto px-4 w-5xl">
