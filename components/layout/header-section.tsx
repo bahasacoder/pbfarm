@@ -15,22 +15,23 @@ export function HeaderSection () {
 
 	return (
 	<>
-		<header className="relative w-full mx-auto container shadow-sm">
-			{/* Top Bar */}
-			<div className="border-b">
-				<div className="container mx-auto px-4 py-2">
-					<TopBar />
+		<div>
+			<header className="relative w-full mx-auto container shadow-sm">
+				{/* Top Bar */}
+				<div className="border-b">
+					<div className="container mx-auto px-4 py-2">
+						<TopBar />
+					</div>
 				</div>
-			</div>
-			{/* Main Header */}
-			<div className="container mx-auto px-4 py-4">
-				<div className="flex items-center justify-between gap-8">
-					<MainHeader />
+				{/* Main Header */}
+				<div className="container mx-auto px-4 py-4">
+					<div className="flex items-center justify-between gap-8">
+						<MainHeader />
+					</div>
 				</div>
- 			</div>
-		</header>
-		
-			{/* Navigation - Header */}
+			</header>
+		</div>
+		{/* Navigation - Header */}
 		<div className="sticky top-0 z-50 flex flex-col mx-auto w-full">
 				<div className="relative w-full bg-beige hidden lg:flex mx-auto">
 					<div className="flex top-0 mx-auto px-4 w-5xl">
