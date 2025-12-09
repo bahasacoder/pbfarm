@@ -10,7 +10,7 @@ import { Mail } from "lucide-react";
 import { Phone } from "lucide-react";
 import { MapPinHouse } from "lucide-react";
 import ResponsiveIframe from "@/components/page/responsive-iframe";
-import { ContactWaForm } from "@/components/features/contact-wa-form";
+import { ContactTanyaForm } from "@/components/features/contact-tanya-form";
 
 export default function ContactUs() {
 	
@@ -65,8 +65,8 @@ export default function ContactUs() {
 			</div>
 			
 			<div className="w-full md:w-[50%]">
-				<div className="p-4 "><h3 className="text-2xl font-bold">Kirimkan Kami Pesan!</h3></div>
-				{/* <ContactWaForm /> */}
+				<div className="p-4 "><h3 className="text-2xl font-bold">Kirimkan Pertanyaan Anda!</h3></div>
+				<ContactTanyaForm /> 
 			  </div>
 		</div>
 		

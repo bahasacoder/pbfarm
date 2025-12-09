@@ -39,7 +39,7 @@ export function ItemProductGrid() {
 									<p className="">Sold: <span>4</span></p>
 								</div>								
 								<div className=" bg-lime-400 py-2 px-4 py-2 text-center rounded-lg">
-									<Link href="#" className="text-white font-bold">View Product</Link>
+									<Link href="#" className="text-white font-bold">Detail Product</Link>
 									<div className="w-[97%] h-1 mx-auto bg-lime-400 w-2 hover:bg-lime-600 hover:w-12 duration-400"> </div>
 								</div>								
 							</div>

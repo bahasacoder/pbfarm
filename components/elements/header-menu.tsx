@@ -29,8 +29,8 @@ export function HeaderMenu() {
 			<div className="flex justify-between">
 				<nav className="main-menu flex items-center justify-between">
 					<ul className="horizontal-menu flex items-center gap-6 py-4">
-						<li className="menu-item"><Link href="#">About Us</Link></li>
-						<li className="menu-item"><Link href="#">Product</Link>
+						<li className="menu-item"><Link href="about">About Us</Link></li>
+						<li className="menu-item"><Link href="shop">Product</Link>
 						
 							<Popover>
 							  <PopoverTrigger asChild>
@@ -54,8 +54,8 @@ export function HeaderMenu() {
 						
 						</li>
 						
-						<li className="menu-item"><Link href="#">Activity</Link></li>
-						<li className="menu-item"><Link href="#">Contact</Link></li>
+						<li className="menu-item"><Link href="activity">Activity</Link></li>
+						<li className="menu-item"><Link href="contact">Contact</Link></li>
 						<li className="menu-item"><Link href="#">Recipes</Link>
 						
 							<Popover>

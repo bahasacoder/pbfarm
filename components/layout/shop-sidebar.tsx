@@ -30,11 +30,11 @@ export function ShopSidebar() {
   return (
   // w-310
     <aside className="w-[20rem]">
-		<header className="text-2xl font-bold">Filter</header>
-		<div className="bg-zinc-200">
+		<header className="text-2xl font-bold mb-4">Filter</header>
+		<div className="">
 			<div className="flex justify-between items-center">
-				<h3 className="font-medium mb-4 border-b-3">All Category</h3>
-				<button className="toggle bg-yellow-200 p-2" onClick={() => toggleFilter("isCategories")}>
+				<h3 className="font-medium pb-2 mb-4 border-b-3 border-zinc-800">All Category</h3>
+				<button className="toggle p-2" onClick={() => toggleFilter("isCategories")}>
 					{ isCategories ? <ChevronUp /> : <ChevronDown />}
 				</button>
 			</div>
@@ -48,10 +48,10 @@ export function ShopSidebar() {
 				</ul>
 			}			
 		</div>
-		<div className="bg-sky-200">
+		<div className="">
 			<div className="flex justify-between items-center">
-				<h3 className="font-medium mb-4 border-b-3">Harga</h3>
-				<button className="toggle bg-yellow-200 p-2" onClick={() => toggleFilter("isPrice")}>
+				<h3 className="font-medium mb-4 pb-2 border-b-3 border-zinc-800">Harga</h3>
+				<button className="toggle p-2" onClick={() => toggleFilter("isPrice")}>
 					{ isPrice ? <ChevronUp /> : <ChevronDown />}
 				</button>
 			</div>
@@ -66,10 +66,10 @@ export function ShopSidebar() {
 			}			
 		</div>
 		
-		<div className="bg-purple-200">
+		<div className="">
 			<div className="flex justify-between items-center">
-				<h3 className="font-medium mb-4 border-b-3">Supplier</h3>
-				<button className="toggle bg-yellow-200 p-2" onClick={() => toggleFilter("isSupplier")}>
+				<h3 className="font-medium mb-4 pb-2 border-b-3 border-zinc-800">Supplier</h3>
+				<button className="toggle p-2" onClick={() => toggleFilter("isSupplier")}>
 					{ isSupplier ? <ChevronUp /> : <ChevronDown />}
 				</button>
 			</div>
