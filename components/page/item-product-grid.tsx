@@ -3,7 +3,7 @@ import Image from 'next/image';
 import items from "@/db/items.json";
 
 export function ItemProductGrid() {
-
+const githubimg = 'https://raw.githubusercontent.com/bahasacoder/pbfarm/refs/heads/main/public';
 	return (
 		<>
 			{items.itemsGrid.map((item) => (
@@ -12,7 +12,7 @@ export function ItemProductGrid() {
 							<div className="block z-18 absolute top-0 w-[40%] bg-amber-400 text-white p-1 m-1 rounded-lg">14% Off</div>
 							<Link href="#" className="z-8 absolute top-6 flex justify-end w-full h-[228px]">
 								<Image  
-									src={item.imageSrc} alt={item.name} 
+									src={githubimg}{item.imageSrc} alt={item.name} 
 									width={100} height={100}
 									style={{ objectFit: 'fill', borderRadius: '10px', objectPosition: 'top', width:'200px', height: '228px'}}
 								/>
