@@ -20,7 +20,7 @@
 			"star":"3",
 			"description":"Telur Ayang Kampung dalam 1 Pack isi 10 butir",
 			"note_option":"harga belum termasuk pengiriman",
-			"imageSrc":"/shop/eggs-in-plastic.png",
+			"imageSrc":"https://raw.githubusercontent.com/bahasacoder/pbfarm/refs/heads/main/public/shop/eggs-in-plastic.png",
 			"date_input":"11/23/2025 12:50",
 			"date_update":"11/23/2025 12:51"
 		},
@@ -44,7 +44,7 @@
 			"star":"3",
 			"description":"Telur Ayang Kampung dalam 1 Pack isi 10 butir",
 			"note_option":"harga belum termasuk pengiriman",
-			"imageSrc":"/shop/telur-jerami.jpg",
+			"imageSrc":"https://raw.githubusercontent.com/bahasacoder/pbfarm/refs/heads/main/public/shop/telur-jerami.jpg",
 			"date_input":"11/23/2025 12:50",
 			"date_update":"11/23/2025 12:51"
 		},		
@@ -68,7 +68,7 @@
 			"star":"3",
 			"description":"Pemotongan dan Pembersihan di satu tempat",
 			"note_option":"pemotongan ayam secara langsung",
-			"imageSrc":"/shop/ayam-cleaning.png",
+			"imageSrc":"https://raw.githubusercontent.com/bahasacoder/pbfarm/refs/heads/main/public/shop/ayam-cleaning.png",
 			"date_input":"11/23/2025 12:50",
 			"date_update":"11/23/2025 12:51"
 		},		
@@ -92,7 +92,7 @@
 			"star":"3",
 			"description":"Ayam segar yang dilumuri dengan bumbu kunyit",
 			"note_option":"ayam segar tanpa pengolahan",
-			"imageSrc":"/shop/Marinated_Chicken.png",
+			"imageSrc":"https://raw.githubusercontent.com/bahasacoder/pbfarm/refs/heads/main/public/shop/marinated_chicken.png",
 			"date_input":"11/23/2025 12:50",
 			"date_update":"11/23/2025 12:51"
 		},				
@@ -116,7 +116,7 @@
 			"star":"3",
 			"description":"Ayam segar yang dilumuri dengan bumbu kunyit",
 			"note_option":"ayam segar tanpa pengolahan",
-			"imageSrc":"/shop/ginger_powder.png",
+			"imageSrc":"https://raw.githubusercontent.com/bahasacoder/pbfarm/refs/heads/main/public/shop/ginger_powder.png",
 			"date_input":"11/23/2025 12:50",
 			"date_update":"11/23/2025 12:51"
 		}
