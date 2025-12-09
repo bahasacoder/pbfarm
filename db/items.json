@@ -20,7 +20,7 @@
 			"star":"3",
 			"description":"Telur Ayang Kampung dalam 1 Pack isi 10 butir",
 			"note_option":"harga belum termasuk pengiriman",
-			"imageSrc":"/shop/eggs-in-plastic.png",
+			"imageSrc":"@/public/shop/eggs-in-plastic.png",
 			"date_input":"11/23/2025 12:50",
 			"date_update":"11/23/2025 12:51"
 		},
