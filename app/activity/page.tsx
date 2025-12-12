@@ -22,7 +22,7 @@ const gallerySections = [
         alt: 'Silhouettes on beach'
       },
       {
-        src: './gallery/20251130142851.jpg',
+        src: './gallery/20251102172904.jpg',
         alt: 'Snowy mountain peaks'
       },
       {
@@ -47,7 +47,7 @@ const gallerySections = [
         alt: 'Snowy mountain peaks'
       },
       {
-        src: './gallery/20251102172904.jpg',
+        src: './gallery/20251130142851.jpg',
         alt: 'Rolling green hills'
       },
       {
