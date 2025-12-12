@@ -9,7 +9,7 @@ const gallerySections = [
   {
     images: [
       {
-        src: './gallery/20251130143015.jpg',
+        src: './gallery/20251130142328.jpg',
         alt: 'Coastal cliffs and ocean view'
       }
     ]
@@ -26,7 +26,7 @@ const gallerySections = [
         alt: 'Snowy mountain peaks'
       },
       {
-        src: './gallery/20251130142328.jpg',
+        src: './gallery/20251130143015.jpg',
         alt: 'Rolling green hills'
       },
       {
@@ -51,7 +51,7 @@ const gallerySections = [
         alt: 'Rolling green hills'
       },
       {
-        src: './gallery/20251102165709.jpg.png',
+        src: './gallery/20251102165533.jpg',
         alt: 'Sunset landscape'
       }
     ]
@@ -59,7 +59,7 @@ const gallerySections = [
   {
     images: [
       {
-        src: './gallery/20251102165533.jpg',
+        src: './gallery/20251102165709.jpg',
         alt: 'Coastal cliffs and ocean view'
       }
     ]
