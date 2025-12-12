@@ -9,7 +9,7 @@ const gallerySections = [
   {
     images: [
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-10.png',
+        src: 'https://github.com/bahasacoder/pbfarm/blob/main/public/gallery/20251130143015.jpg',
         alt: 'Coastal cliffs and ocean view'
       }
     ]
@@ -18,19 +18,19 @@ const gallerySections = [
     type: 'grid',
     images: [
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-9.png',
+        src: 'https://github.com/bahasacoder/pbfarm/blob/main/public/gallery/20251130143019.jpg',
         alt: 'Silhouettes on beach'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-8.png',
+        src: 'https://github.com/bahasacoder/pbfarm/blob/main/public/gallery/20251130142851.jpg',
         alt: 'Snowy mountain peaks'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-7.png',
+        src: 'https://github.com/bahasacoder/pbfarm/blob/main/public/gallery/20251130142328.jpg',
         alt: 'Rolling green hills'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-6.png',
+        src: 'https://github.com/bahasacoder/pbfarm/blob/main/public/gallery/20251115053312.jpg',
         alt: 'Sunset landscape'
       }
     ]
