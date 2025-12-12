@@ -9,7 +9,7 @@ const gallerySections = [
   {
     images: [
       {
-        src: 'https://github.com/bahasacoder/pbfarm/blob/main/public/gallery/20251130143015.jpg',
+        src: './gallery/20251130143015.jpg',
         alt: 'Coastal cliffs and ocean view'
       }
     ]
