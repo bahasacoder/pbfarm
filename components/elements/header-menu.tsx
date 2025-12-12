@@ -41,11 +41,11 @@ export function HeaderMenu() {
 								  <div className="grid gap-2">
 									<div className="grid grid-cols-3 items-center gap-4">
 									  <div className="">Foto</div>
-									  <div className="col-span-2"><Link href="shop">Ayam Kampung Asli</Link>Link></div>
+									  <div className="col-span-2"><Link href="shop">Ayam Kampung Asli</Link></div>
 									</div>
 									<div className="grid grid-cols-3 items-center gap-4">
 									  <div className="">Foto</div>
-									  <div className="col-span-2"><Link href="shop">Telur Ayam Kampung</div>Link></div>
+									  <div className="col-span-2"><Link href="shop">Telur Ayam Kampung</Link></div>
 									</div> 
 								  </div>
 								</div> 
