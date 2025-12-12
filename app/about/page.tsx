@@ -19,7 +19,7 @@ export default function AboutUs() {
 	</div>
 	<div className="relative w-[100%] min-h-[256px] h-auto lg:h-[512px] flex justify-center items-center my-8 mx-auto py-4 px-6">
 		<Image 
-			src="/istockphoto-makanan-diet-seimbang.jpg" 
+			src="./istockphoto-makanan-diet-seimbang.jpg" 
 			alt="makanan-natural-seimbang" 
  			fill
 			style={{ objectFit: 'cover', borderRadius: '10px', }}
