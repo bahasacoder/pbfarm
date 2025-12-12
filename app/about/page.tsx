@@ -62,7 +62,7 @@ export default function AboutUs() {
 				<div className="lg:w-full block">
 					<div className="relative max-w-[350px] h-[350px] mx-auto flex ">
 						<Image 
-							src="/Fluffy_Chicks_Golden_Straw.png" 
+							src="./images/Fluffy_Chicks_Golden_Straw.png" 
 							alt="anak ayam"
 							width={350} height={350}
 							style={{ objectFit: 'cover', borderRadius: '50%',}}
@@ -75,7 +75,7 @@ export default function AboutUs() {
 				<div className="lg:w-full block">
 					<div className="relative max-w-[350px] h-[350px] mx-auto flex">
 						<Image 
-							src="/Proud_Hen_Farmyard_Morning.png" 
+							src="./images/Proud_Hen_Farmyard_Morning.png" 
 							alt="anak ayam"
 							width={350} height={350}
 							style={{ objectFit: 'cover', borderRadius: '50%', }}
@@ -88,7 +88,7 @@ export default function AboutUs() {
 				<div className="lg:w-full block">
 					<div className="relative max-w-[350px] h-[350px] mx-auto flex">
 						<Image 
-							src="/Farm_Fresh_Egg_Collection.png" 
+							src="./images/Farm_Fresh_Egg_Collection.png" 
 							alt="anak ayam"
 							width={350} height={350}
 							style={{ objectFit: 'cover', borderRadius: '50%', }}
@@ -101,7 +101,7 @@ export default function AboutUs() {
 				<div className="lg:w-full block">
 					<div className="relative max-w-[350px] h-[350px] mx-auto flex">
 						<Image 
-							src="/Majestic_Rooster_Sunrise_Portrait.png" 
+							src="./images/Majestic_Rooster_Sunrise_Portrait.png" 
 							alt="anak ayam"
 							width={350} height={350}
 							style={{ objectFit: 'cover', borderRadius: '50%', }}
@@ -118,7 +118,7 @@ export default function AboutUs() {
 				<h2 className="w-full bg-zinc-100 text-blue-800 text-xl font-bold p-4 my-4 rounded-md">Komitmen pada kami</h2>
 				<div className="relative w-full h-auto mx-auto flex text-center justify-center">
 					<Image 
-							src="/Native_Chicken_Rustic_Studio_Shot.png" 
+							src="./images/Native_Chicken_Rustic_Studio_Shot.png" 
 							alt="anak ayam"
 							width={350} height={350}
 							style={{ objectFit: 'cover', borderRadius: '0%', }}
@@ -132,7 +132,7 @@ export default function AboutUs() {
 				<h2 className="w-full bg-zinc-100 text-blue-800 text-xl font-bold p-4 my-4 rounded-md">Mengapa memilih kami</h2>
 				<div className="relative w-full h-auto mx-auto flex text-center justify-center">
 					<Image 
-							src="/Smoked_Chicken_Masterpiece.png" 
+							src="./images/Smoked_Chicken_Masterpiece.png" 
 							alt="anak ayam"
 							width={350} height={350}
 							style={{ objectFit: 'cover', borderRadius: '0%', }}
