@@ -35,11 +35,11 @@ export function ItemProductGrid() {
 								</div>
 								<div className="w-[97%] h-1 mx-auto bg-lime-600"> </div>
 								<div className="text-zinc-600 flex justify-between mb-3 font-light">
-									<p className="">Available: <span>173</span></p>
-									<p className="">Sold: <span>4</span></p>
+									<p className="">Available: <span>{item.available}</span></p>
+									<p className="">Sold: <span>{item.sold}</span></p>
 								</div>								
 								<div className=" bg-lime-400 py-2 px-4 py-2 text-center rounded-lg">
-									<Link href="#" className="text-white font-bold">Detail Product</Link>
+									<Link href="#" className="text-white font-bold">View Product</Link>
 									<div className="w-[97%] h-1 mx-auto bg-lime-400 w-2 hover:bg-lime-600 hover:w-12 duration-400"> </div>
 								</div>								
 							</div>

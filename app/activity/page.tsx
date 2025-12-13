@@ -9,7 +9,7 @@ const gallerySections = [
   {
     images: [
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-10.png',
+        src: './gallery/20251130142328.jpg',
         alt: 'Coastal cliffs and ocean view'
       }
     ]
@@ -18,19 +18,19 @@ const gallerySections = [
     type: 'grid',
     images: [
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-9.png',
+        src: './gallery/20251130143019.jpg',
         alt: 'Silhouettes on beach'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-8.png',
+        src: './gallery/20251102172904.jpg',
         alt: 'Snowy mountain peaks'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-7.png',
+        src: './gallery/20251130143015.jpg',
         alt: 'Rolling green hills'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-6.png',
+        src: './gallery/20251115053312.jpg',
         alt: 'Sunset landscape'
       }
     ]
@@ -39,19 +39,19 @@ const gallerySections = [
     type: 'grid',
     images: [
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-4.png',
+        src: './gallery/20251110052820.jpg',
         alt: 'Silhouettes on beach'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-3.png',
+        src: './gallery/20251110052557.jpg',
         alt: 'Snowy mountain peaks'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-2.png',
+        src: './gallery/20251130142851.jpg',
         alt: 'Rolling green hills'
       },
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-1.png',
+        src: './gallery/20251102165533.jpg',
         alt: 'Sunset landscape'
       }
     ]
@@ -59,7 +59,7 @@ const gallerySections = [
   {
     images: [
       {
-        src: 'https://cdn.shadcnstudio.com/ss-assets/blocks/marketing/gallery/image-5.png',
+        src: './gallery/20251102165709.jpg',
         alt: 'Coastal cliffs and ocean view'
       }
     ]
