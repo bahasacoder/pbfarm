@@ -5,7 +5,7 @@ import ProductList from "@/components/product-list"
 export default function FakePage() {
   return (
     <>
-        <ProductList />
+        <div>Halaman Fake Production</div>
     </>
   )
 }
