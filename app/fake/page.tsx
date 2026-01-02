@@ -2,7 +2,7 @@ import React from "react";
 import ProductList from "@/components/product-list"
 
 
-export default function RootPage() {
+export default function FakePage() {
   return (
     <>
         <ProductList />
