@@ -1,11 +1,9 @@
-import React from "react";
-import ProductList from "@/components/product-list"
-
 
 export default function FakePage() {
   return (
     <>
-        <div>Halaman Fake Production</div>
+      <h1 className="bg-rose-400 p-4">Hello, Fake Productions</h1>
     </>
+    
   )
 }
