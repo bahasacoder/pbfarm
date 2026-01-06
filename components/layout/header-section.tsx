@@ -29,7 +29,7 @@ export function HeaderSection () {
 					</div>
 				</div>
 			</header>
-			{/* Navigation - Header */}
+
 		<section>
 			<div className="sticky top-0 z-50 flex flex-col mx-auto w-full">
 					<div className="relative w-full bg-beige hidden lg:flex mx-auto">

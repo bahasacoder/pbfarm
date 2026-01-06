@@ -4,7 +4,7 @@ import { useSelector, useDispatch  } from "react-redux";
 import axios from "axios";
 
 function ProductList() {
-    // const [products, setProducts] = useState([]);
+    const [products, setProducts] = useState([]);
     /*
         effect
         const fetchProducts = async () => {
@@ -13,11 +13,16 @@ function ProductList() {
         }
         fetchProducts()
     */
-    const {items:products, status} = useSelector((state)=>state.products)
-    const dispatch = useDispatch();
+    //const {items:products, status} = useSelector((state)=>state.products)
+    //const dispatch = useDispatch();
        
     useEffect(()=>{
-       
+        const fetchProducts = async () => {
+            axios.get('https://fakestoreapi.com/products')
+            .then(response => setProducts(response.data));
+        }
+        fetchProducts()
+
        if(status==='idle'){
         dispatch(fetchProducts);
        }
