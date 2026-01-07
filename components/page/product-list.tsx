@@ -1,5 +1,5 @@
 "use client"
-import { addToCart } from "@/features/cartSlice";
+// import { addToCart } from "@/features/cartSlice";
 import { fetchProducts } from "@/features/productSlice";
 import React, { useEffect, useState } from "react";
 import { useSelector, useDispatch  } from "react-redux";
