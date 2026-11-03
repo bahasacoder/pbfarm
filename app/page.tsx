@@ -1,11 +1,5 @@
-import Hero from "@/components/features/hero";
+import Storefront from "@/components/features/storefront";
 
 export default function Page() {
-  return (
-    <>
-      <Hero />
-      <h1 className="bg-rose-400 p-4">Hello, Next.js!</h1>
-    </>
-    
-  )
+  return <Storefront />;
 }
